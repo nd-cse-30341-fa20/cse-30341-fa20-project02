@@ -23,11 +23,11 @@ brainstorming questions **are not required**.
 
 1. What data must be allocated and deallocated for each `Queue` structure?
 
-2. How will you implement **mutal exclusion**?
+2. How will you implement **mutual exclusion**?
 
 3. How will you implement **signaling**?
 
-3. What are the the **critical sections**?
+3. What are the **critical sections**?
 
 ### Client
 
