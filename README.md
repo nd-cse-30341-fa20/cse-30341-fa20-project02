@@ -44,7 +44,7 @@ brainstorming questions **are not required**.
 
 6. What needs to happen when the user **starts** the `MessageQueue`?
 
-7. What needs to happen when the user **shuts down** the `MessageQueue`?
+7. What needs to happen when the user **stops** the `MessageQueue`?
 
 8. How many internal **threads** are required?
 
