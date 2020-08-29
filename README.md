@@ -62,4 +62,4 @@ brainstorming questions are not required.
 > Describe any known errors, bugs, or deviations from the requirements.
 
 [Project 02]:       https://www3.nd.edu/~pbui/teaching/cse.30341.fa20/project02.html
-[CSE.30341.FA12]:   https://www3.nd.edu/~pbui/teaching/cse.30341.fa20/
+[CSE.30341.FA20]:   https://www3.nd.edu/~pbui/teaching/cse.30341.fa20/
