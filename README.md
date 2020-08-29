@@ -11,7 +11,7 @@ This is [Project 02] of [CSE.30341.FA20].
 
 The following are questions that should help you in thinking about how to
 approach implementing [Project 02].  For this project, responses to these
-brainstorming questions are not required.
+brainstorming questions **are not required**.
 
 ### Request
 
@@ -55,7 +55,7 @@ brainstorming questions are not required.
 
 ## Demonstration
 
-> Link to Video demonstration of user application.
+> Link to **video demonstration** of **chat application**.
 
 ## Errata
 
