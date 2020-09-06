@@ -84,6 +84,8 @@ class SubscriptionHandler(BaseHandler):
         ''' Subscribe queue to topic. '''
         try:
             self.application.subscriptions[queue].add(topic)
+            if queue not in self.application.queues:
+                self.application.queues[queue]
         except KeyError:
             raise tornado.web.HTTPError(404, 'There is no queue named: {}'.format(queue))
 
